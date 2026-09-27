@@ -16,7 +16,7 @@ import java.util.Arrays;
  * Relevant reading: 1.7. Aliases and 1.9. Parameters.
  */
 public class Aliasing {
-
+//hii
     public static void main(String[] args) {
         int[] data = {1, 2, 3};
         addInPlace(data, 10);
